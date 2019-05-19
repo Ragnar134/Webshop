@@ -10,7 +10,7 @@ namespace Webshop
     public partial class _default : System.Web.UI.Page
     {
         /* Dit is een instance van de Controller Class zodat we in deze document gebruik kunnen maken 
-           van de methodes die in de Controller Class zitten */
+           van de methodes die in de Controller Class zitten.*/
         Controller _cont = new Controller();
         protected void Page_Load(object sender, EventArgs e)
         {
